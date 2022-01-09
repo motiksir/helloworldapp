@@ -1,6 +1,0 @@
-README.txt
-setup.py
-moti_ksir.egg-info/PKG-INFO
-moti_ksir.egg-info/SOURCES.txt
-moti_ksir.egg-info/dependency_links.txt
-moti_ksir.egg-info/top_level.txt

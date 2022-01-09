@@ -9,16 +9,16 @@ classifiers = [
 ]
 
 setup(
-    name='moti ksir',
+    name='simplehello',
     version='0.0.1',
-    description='simple app',
-    long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
+    description='hello_app1',
+    long_description='hello_app1',
     url='',
     author='moti ksir',
     author_email='motiksir@gmail.com',
     license='MIT',
     classifiers=classifiers,
-    keywords='simple_app',
+    keywords='simplehello',
     packages=find_packages(),
     install_requires=['']
 )
